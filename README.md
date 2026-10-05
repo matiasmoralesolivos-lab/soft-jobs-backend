@@ -1,5 +1,5 @@
 # Soft Jobs — Backend
-[Ver aplicación online](https://soft-jobs-frontend-j0im.onrender.com)
+<a href="https://soft-jobs-frontend-j0im.onrender.com" target="_blank">Ver aplicación online</a>
 
 API REST desarrollada con Node.js, Express y PostgreSQL para la plataforma Soft Jobs.
 
